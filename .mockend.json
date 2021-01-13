@@ -1,5 +1,5 @@
 {
-  "customer": {
+  "Customer": {
     "id": "int",
     "name": "string",
   },
