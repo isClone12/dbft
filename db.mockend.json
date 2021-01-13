@@ -1,0 +1,6 @@
+{
+  "customer": {
+    "id": "int",
+    "name": "string",
+  },
+}
